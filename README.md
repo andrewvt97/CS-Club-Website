@@ -2,6 +2,7 @@
 A website for computer science club members to showcase their work and connect with other members. This readme is meant for comp sci club members who are learning to create their own full stack project.
 
 App was created using the following steps: (This is just an explanation for when you need to create your own full stack applications).
+
 mkdir CS-Club-Website // create the project directory
 
 cd CS-Club-Website // go into the project directory
